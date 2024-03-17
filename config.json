@@ -1,0 +1,56 @@
+{
+    "__separator__": null,
+    "additional-repositories": [],
+    "archinstall-language": "English",
+    "audio_config": {
+        "audio": "pipewire"
+    },
+    "bootloader": "Grub",
+    "config_version": "2.7.1",
+    "debug": false,
+    "disk_config": {
+        "config_type": "pre_mounted_config",
+        "mountpoint": "/mnt"
+    },
+    "disk_encryption": null,
+    "hostname": "archlinux",
+    "kernels": [
+        "linux"
+    ],
+    "locale_config": {
+        "kb_layout": "us",
+        "sys_enc": "UTF-8",
+        "sys_lang": "en_US"
+    },
+    "mirror_config": null,
+    "network_config": {
+        "type": "nm"
+    },
+    "no_pkg_lookups": false,
+    "ntp": true,
+    "offline": false,
+    "packages": [
+        "vim",
+        "git"
+    ],
+    "parallel downloads": 10,
+    "profile_config": {
+        "gfx_driver": null,
+        "greeter": null,
+        "profile": {
+            "custom_settings": {},
+            "details": [],
+            "main": "Minimal"
+        }
+    },
+    "save_config": null,
+    "script": "guided",
+    "silent": false,
+    "skip_ntp": false,
+    "skip_version_check": false,
+    "swap": true,
+    "timezone": "Asia/Kolkata",
+    "uki": false,
+    "version": "2.7.1"
+}
+
